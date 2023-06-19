@@ -34,6 +34,15 @@ Please provide the following:
 
 - Mockups/designs of any UI 
 
+* 1
+![P1. 1](https://github.com/thisismagma/media/blob/main/1.jpg)
+* 3
+![P2. 2](https://github.com/thisismagma/media/blob/main/2.jpg)
+* 3
+![P3. 3](https://github.com/thisismagma/media/blob/main/3.jpg)
+* 4
+![P4. 4](https://github.com/thisismagma/media/blob/main/4.jpg)
+
 
 - API specifications of the core functionality
 
