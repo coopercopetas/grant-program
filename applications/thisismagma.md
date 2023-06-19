@@ -52,9 +52,7 @@ Please provide the following:
 
 - API specifications of the core functionality
 
-https://api-preprod.mymagma.com/api/#/default/HealthCheckController_getHealthCheck
-
-* URL : Magma API
+* Magma API : https://api-preprod.mymagma.com/api/#/default/HealthCheckController_getHealthCheck
 * Github : https://github.com/thisismagma/magma-api
 
  -
