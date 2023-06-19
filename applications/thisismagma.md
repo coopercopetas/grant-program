@@ -163,6 +163,8 @@ Please describe the team's relevant experience. If the project involves developm
 #### Community engagement
 
 - Twitter: https://twitter.com/@magmarealestate
+- Linkedln: https://www.linkedin.com/company/magmarealestate
+
 
 ## Future Plans
 
