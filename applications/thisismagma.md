@@ -32,15 +32,14 @@ Please provide the following:
 
 ### Project Details
 
-- Mockups/designs of any UI 
 
-* 1
+* login
 ![P1. 1](https://github.com/thisismagma/media/blob/main/1.jpg)
-* 3
+* Building Index levels
 ![P2. 2](https://github.com/thisismagma/media/blob/main/2.jpg)
-* 3
+* Walet + DTT page
 ![P3. 3](https://github.com/thisismagma/media/blob/main/3.jpg)
-* 4
+* Activity page
 ![P4. 4](https://github.com/thisismagma/media/blob/main/4.jpg)
 
 
