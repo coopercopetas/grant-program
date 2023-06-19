@@ -57,32 +57,7 @@ https://api-preprod.mymagma.com/api/#/default/HealthCheckController_getHealthChe
 * URL : Magma API
 * Github : https://github.com/thisismagma/magma-api
 
- - user
-
--- GET /user
--- GET /user/searchByEmail
-POST /user/permissions/default
-POST /user/permissions
-GET /user/stakeholders
-POST /user/wallet
-GET /user/types
-POST /user/nda
-POST /user/payment
-building
-GET /building
-POST /building
-DELETE /building
-GET /building/types
-POST /building/stakeholder
-DELETE /building/stakeholder
-POST /building/fields
-GET /building/media/{fileUrl}
-POST /building/media
-DELETE /building/media
-GET /building/media/activity
-POST /building/media/activity
-POST /building/payment
-
+ -
 
 - An overview of the technology stack to be used
 
@@ -114,17 +89,17 @@ In addition, we created the Magma Index which evaluate the level of digitization
 
 ### Team members
 
-Matthieu Merchadou - CEO
-Cooper Copetas - CIO
-Jurgen Schouppe - CTO
-Jonathan Wahnich - General Manager
-Emre Palandöken - Product Owner 
-Andy Demeulemeester - Senior Developer
-Yoan Gross - Designer
-Hrish Lotlikar - Advisor
-Emmanuel François - Advisor
-Anthony Carta - Advisor
-Michael Benhamou - Advisory board
+* Matthieu Merchadou - CEO
+* Cooper Copetas - CIO
+* Jurgen Schouppe - CTO
+* Jonathan Wahnich - General Manager
+* Emre Palandöken - Product Owner 
+* Andy Demeulemeester - Senior Developer
+* Yoan Gross - Designer
+* Hrish Lotlikar - Advisor
+* Emmanuel François - Advisor
+* Anthony Carta - Advisor
+* Michael Benhamou - Advisory board
 
 ### Team Website
 
@@ -143,16 +118,16 @@ Please describe the team's relevant experience. If the project involves developm
 
 ### Team LinkedIn Profiles
 
-Matthieu Merchadou - https://www.linkedin.com/mwlite/in/matthieu-merchadou-melki-18b50429
-Jurgen Schouppe - https://www.linkedin.com/mwlite/in/jurgen-schouppe-084368119
-Jonathan Wahnich - https://fr.linkedin.com/in/jonathan-wahnich-430bb515
-Emre Palandöken - https://www.linkedin.com/mwlite/in/emre-palandoken
-Andy Demeulemeester - https://www.linkedin.com/mwlite/in/andydemeulemeester
-Yoan Gross - https://www.linkedin.com/mwlite/in/yoan-gross-038146153
-Hrish Lotlikar - https://www.linkedin.com/in/hrishlotlikar
-Emmanuel François - https://www.linkedin.com/mwlite/in/emmanuel-francois-63795232
-Anthony Carta - https://www.linkedin.com/mwlite/in/anthony-carta-bim-manager
-Michael Benhamou - https://www.linkedin.com/mwlite/in/michael-benhamou-510165
+* Matthieu Merchadou - https://www.linkedin.com/mwlite/in/matthieu-merchadou-melki-18b50429
+* Jurgen Schouppe - https://www.linkedin.com/mwlite/in/jurgen-schouppe-084368119
+* Jonathan Wahnich - https://fr.linkedin.com/in/jonathan-wahnich-430bb515
+* Emre Palandöken - https://www.linkedin.com/mwlite/in/emre-palandoken
+* Andy Demeulemeester - https://www.linkedin.com/mwlite/in/andydemeulemeester
+* Yoan Gross - https://www.linkedin.com/mwlite/in/yoan-gross-038146153
+* Hrish Lotlikar - https://www.linkedin.com/in/hrishlotlikar
+* Emmanuel François - https://www.linkedin.com/mwlite/in/emmanuel-francois-63795232
+* Anthony Carta - https://www.linkedin.com/mwlite/in/anthony-carta-bim-manager
+* Michael Benhamou - https://www.linkedin.com/mwlite/in/michael-benhamou-510165
 
  
 
