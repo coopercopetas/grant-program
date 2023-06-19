@@ -34,12 +34,19 @@ Please provide the following:
 
 
 * login
+
 ![P1. 1](https://github.com/thisismagma/media/blob/main/1.jpg)
+
 * Building Index levels
+
 ![P2. 2](https://github.com/thisismagma/media/blob/main/2.jpg)
+
 * Walet + DTT page
+
 ![P3. 3](https://github.com/thisismagma/media/blob/main/3.jpg)
+
 * Activity page
+
 ![P4. 4](https://github.com/thisismagma/media/blob/main/4.jpg)
 
 
@@ -50,10 +57,10 @@ https://api-preprod.mymagma.com/api/#/default/HealthCheckController_getHealthChe
 * URL : Magma API
 * Github : https://github.com/thisismagma/magma-api
 
-user
+ - user
 
-GET /user
-GET /user/searchByEmail
+-- GET /user
+-- GET /user/searchByEmail
 POST /user/permissions/default
 POST /user/permissions
 GET /user/stakeholders
