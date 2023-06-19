@@ -38,9 +38,8 @@ We will use MPP, ATP and also use the connex compatabible wallet from safehaven 
 
 https://api-preprod.mymagma.com/api/#/default/HealthCheckController_getHealthCheck
 
-Magma-API
-URL : Magma API
-Github : https://github.com/thisismagma/magma-api
+* URL : Magma API
+* Github : https://github.com/thisismagma/magma-api
 
 user
 
@@ -181,6 +180,9 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 #### Community engagement
 
 As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant.
+
+
+
 
 ## Future Plans
 
