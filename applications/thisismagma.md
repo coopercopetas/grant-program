@@ -132,45 +132,37 @@ Please describe the team's relevant experience. If the project involves developm
  
 
 ## Development Roadmap 
-
-This section should break out the development roadmap into a number of milestones. Since the milestones will appear in the grant contract, it helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered as expected.
-
-Below we provide an <b>example roadmap</b>. For each milestone:
-
-- Please indicate the milestone duration, workload in terms of full-time equivalent (FTE) and cost. 
-- Please be sure to include a specification of the software. The level of details must be high enough so that we are able to verify that the software meets the specification.
-- Please note that we require documentation (e.g. tutorials, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
-- Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
-- Please commit to providing dockerfiles for the delivery of your project.
-
-
-### Example Roadmap for a dApp Application
-
 #### Overview
 
-|  | Milestone 1 | Milestone 2 | Total |
-| - | - |- | - |
-| Estimated Duration | 30 d | 30 d | 60 d |
-| Full-time equivalent (FTE) | 2 | 1 | 3 |
-| Cost (up to $ 30,000) | $ 5,000 | $ 10,000 | $ 15,000|
 
-#### Milestone 1 — Smart Contract & Backend
+**Total Funds: 30,000 USD**
 
-| Number | Deliverable | Specification |
-|-|-|-|
-| 0a.| License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
-| 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
-| 1 | Smart Contracts | We will develop smart contracts that will...  (Please list the functionality that will be coded for the contracts) |
-| 2 | Backend | "We will create a backend service that will... (Please list the functionality that will be coded for the backend)" |
+|  Name   |    M1     |   M2      |    M3      |
+| ------- | --------- | --------- | ---------- |
+| Cost    | 10000 USD | 10000 USD | 10000 USD  |
+| Status  | Progress  | Progress  | Progress   |
+| Man-Day | 30        | 40        | 60         |
 
-#### Milestone 2  —  Frontend
+### Milestone Details
 
-...
+#### M1. Create MUT and MAT
+
+1) build and deploy a VIP-181 access token
+2) build and deploy a VIP-180 utilty token
+
+#### M2: Create a DTT
+
+1) Develop the DTT, a ERC-1155 based NFT tree to contain amm building metadata
+2) Add storefactory logic to the DTT
+3) Deploy on mainnent
+
+
+#### M3: Integrate a paimentment system in the platform to perform reward paiements for stakeholders
+
+1) Intergrate the ATP for MUT token distribution
+2) use MPP for deploy the DTT for custodian based buildings
 
 #### Community engagement
-
-As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant.
 
 
 
