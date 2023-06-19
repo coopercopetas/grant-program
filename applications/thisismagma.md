@@ -17,10 +17,10 @@ Please provide the following:
 
 To sum up :
 
-    - Early investors and supporters of Vechain
-    - Low Gas fee
-    - Fee Delegation technology
-    - Faster transaction confirmation times
+    * Early investors and supporters of Vechain
+    * Low Gas fee
+    * Fee Delegation technology
+    * Faster transaction confirmation times
  
 - We will use MPP, ATP and also use the connex compatabible wallet from safehaven Comet to interact with the chain.
 
