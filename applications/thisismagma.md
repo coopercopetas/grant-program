@@ -15,7 +15,7 @@ Please provide the following:
 
 - We chose VeChain for the Digital Twin Token as this blockchain is based on the Proof of Authority consensus and so requires significantly low gas fees. Vechain's global plans to establish itself as the leader in sustainable and environmentally responsible blockchain solutions joins our approach on building a breakthrough platform for real estate which faces significant ESG challenges. Moreover our CTO jurgen Schouppe has extensive experience on the Vechain blockchain.
 
-To sum up :
+- To sum up :
 
     * Early investors and supporters of Vechain
     * Low Gas fee
