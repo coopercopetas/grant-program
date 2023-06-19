@@ -6,28 +6,29 @@
 - Team Name: MAGMA SAS
 - Payment Address: USDT (ERC 20) payment address. 
 
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
 ### Overview
 
 Please provide the following:
-- A brief description of the project.
-Magma is an intuitive platform designed to bring agility to the real estate industry. The Magme platform enables real estate stakeholders to create a unique digital asset of a building from a digital twin, which includes all the technical and contractual documentation of the building's objects and elements. This digital asset is called the Digital Twin Token (DTT®).
-- An indication of why your team is interested in creating this project within the VeChain Ecosystem.
-We chose VeChain for the Digital Twin Token as this blockchain is based on the Proof of Authority consensus and so requires significantly low gas fees. Vechain's global plans to establish itself as the leader in sustainable and environmentally responsible blockchain solutions joins our approach on building a breakthrough platform for real estate which faces significant ESG challenges. Moreover our CTO jurgen Schouppe has extensive experience on the Vechain blockchain. To sum up :
+
+- Magma is an intuitive platform designed to bring agility to the real estate industry. The Magme platform enables real estate stakeholders to create a unique digital asset of a building from a digital twin, which includes all the technical and contractual documentation of the building's objects and elements. This digital asset is called the Digital Twin Token (DTT®).
+
+- We chose VeChain for the Digital Twin Token as this blockchain is based on the Proof of Authority consensus and so requires significantly low gas fees. Vechain's global plans to establish itself as the leader in sustainable and environmentally responsible blockchain solutions joins our approach on building a breakthrough platform for real estate which faces significant ESG challenges. Moreover our CTO jurgen Schouppe has extensive experience on the Vechain blockchain.
+
+To sum up :
+
     - Early investors and supporters of Vechain
     - Low Gas fee
     - Fee Delegation technology
     - Faster transaction confirmation times
  
-- If relevant, an indication of how you will integrate tools and features (e.g., Sync2/Connex, fee delegation protocols, MTT, etc) to enhance your project. 
-We will use MPP, ATP and also use the connex compatabible wallet from safehaven Comet to interact with the chain.
+- We will use MPP, ATP and also use the connex compatabible wallet from safehaven Comet to interact with the chain.
 
-    - VIP180-181, ERC 1155, ERC 721
-    - Comet
-    - Connex
-    - MPP
-    - ATP
+    * VIP180-181, ERC 1155, ERC 721
+    * Comet
+    * Connex
+    * MPP
+    * ATP
 
 ### Project Details
 
