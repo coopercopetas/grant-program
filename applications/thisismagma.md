@@ -4,7 +4,7 @@
 
 - Project: Thisismagma
 - Team Name: MAGMA SAS
-- Payment Address: USDT (ERC 20) payment address. 
+- Payment Address: USDT (ERC 20) 0x54E677901a1172BbB7C9b1184C8BfEAE06EBDE98
 
 
 ### Overview
@@ -24,7 +24,9 @@ Please provide the following:
  
 - We will use MPP, ATP and also use the connex compatabible wallet from safehaven Comet to interact with the chain.
 
-    * VIP180-181, ERC 1155, ERC 721
+    * VIP-180 : MAgma Governannce Token (ERC-20)
+    * ERC-1155 : Digital Twin Token
+    * ERC-721 : Magma Access Token
     * Comet
     * Connex
     * MPP
